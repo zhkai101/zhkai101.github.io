@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Allow: /archives/
+Allow: /categories/
+Allow: /about/
+
+Disallow: /js/
+Disallow: /css/
+Disallow: /libs/
+Disallow: /live2dw/
+Disallow:/medias/
+Disallow:/tags/
