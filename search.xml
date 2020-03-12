@@ -4,11 +4,49 @@
   
     
     <entry>
+      <title>you-get安装</title>
+      <link href="/2020/03/12/you-get-an-zhuang/"/>
+      <url>/2020/03/12/you-get-an-zhuang/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 软件安装 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> you-get 视频 下载 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>xinxiwang</title>
+      <link href="/2020/03/02/xinxiwang/"/>
+      <url>/2020/03/02/xinxiwang/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>联通光猫</title>
       <link href="/2020/01/09/lian-tong-guang-mao/"/>
       <url>/2020/01/09/lian-tong-guang-mao/</url>
       
-        <content type="html"><![CDATA[<h3 id="联通光猫登录"><a href="#联通光猫登录" class="headerlink" title="联通光猫登录"></a>联通光猫登录</h3><h5 id="适用范围"><a href="#适用范围" class="headerlink" title="适用范围"></a>适用范围</h5><ul><li>联通中兴光猫 ZXHN F427Za</li></ul><h5 id="一般登录账号"><a href="#一般登录账号" class="headerlink" title="一般登录账号"></a>一般登录账号</h5><ul><li><p>登录网址</p><p><a href="http://192.168.a.1" target="_blank" rel="noopener">http://192.168.a.1</a>  （具体可以看路由器底部管理IP或连接路由器后自动获取IP后的IP）</p></li><li><p>登录账号</p><p>user</p></li><li><p>登录密码</p><p>见光猫底部</p></li></ul><h5 id="超级管理账号"><a href="#超级管理账号" class="headerlink" title="超级管理账号"></a>超级管理账号</h5><ul><li><p>登录网址</p><p><a href="http://192.168.18.1/cu.html" target="_blank" rel="noopener">http://192.168.18.1/cu.html</a></p></li><li><p>登录账号</p><p>CUAdmin</p></li><li><p>登录密码</p><p>CUAdmin</p></li><li><p>登录界面</p></li></ul><p><img src="%E7%99%BB%E5%BD%95%E7%95%8C%E9%9D%A2.png" alt></p><ul><li>功能</li></ul><p><img src="%E8%B6%85%E7%BA%A7%E8%B4%A6%E5%8F%B7.png" alt></p><h5 id="中兴光猫使用说明书"><a href="#中兴光猫使用说明书" class="headerlink" title="中兴光猫使用说明书"></a>中兴光猫使用说明书</h5><ul><li><a href="https://raw.githubusercontent.com/zhkai101/Resources/5c1223af8a6bfef1d42cd35da800259281015fca/SJ-20141022114207-002-ZXHN%20F427Za%EF%BC%88V6.0%EF%BC%89%E4%BB%A5%E5%A4%AA%E7%BD%91%E6%97%A0%E6%BA%90%E5%85%89%E7%BA%A4%E6%8E%A5%E5%85%A5%E7%94%A8%E6%88%B7%E7%AB%AF%E8%AE%BE%E5%A4%87(EPON%20ONU)%20.pdf" target="_blank" rel="noopener">下载地址1</a></li></ul>]]></content>
+        <content type="html"><![CDATA[<h3 id="联通光猫登录"><a href="#联通光猫登录" class="headerlink" title="联通光猫登录"></a>联通光猫登录</h3><h4 id="适用范围"><a href="#适用范围" class="headerlink" title="适用范围"></a>适用范围</h4><ul><li>联通中兴光猫 ZXHN F427Za</li></ul><h4 id="一般登录账号"><a href="#一般登录账号" class="headerlink" title="一般登录账号"></a>一般登录账号</h4><ul><li><p>登录网址</p><p><a href="http://192.168.a.1" target="_blank" rel="noopener">http://192.168.a.1</a>  （具体可以看路由器底部管理IP或连接路由器后自动获取IP后的IP）</p></li><li><p>登录账号</p><p>user</p></li><li><p>登录密码</p><p>见光猫底部</p></li></ul><h4 id="超级管理账号"><a href="#超级管理账号" class="headerlink" title="超级管理账号"></a>超级管理账号</h4><ul><li><p>登录网址</p><p><a href="http://192.168.18.1/cu.html" target="_blank" rel="noopener">http://192.168.18.1/cu.html</a></p></li><li><p>登录账号</p><p>CUAdmin</p></li><li><p>登录密码</p><p>CUAdmin</p></li><li><p>登录界面</p></li></ul><p><img src="%E7%99%BB%E5%BD%95%E7%95%8C%E9%9D%A2.png" alt></p><ul><li>功能</li></ul><p><img src="%E8%B6%85%E7%BA%A7%E8%B4%A6%E5%8F%B7.png" alt></p><h4 id="中兴光猫使用说明书"><a href="#中兴光猫使用说明书" class="headerlink" title="中兴光猫使用说明书"></a>中兴光猫使用说明书</h4><ul><li><a href="https://raw.githubusercontent.com/zhkai101/Resources/5c1223af8a6bfef1d42cd35da800259281015fca/SJ-20141022114207-002-ZXHN%20F427Za%EF%BC%88V6.0%EF%BC%89%E4%BB%A5%E5%A4%AA%E7%BD%91%E6%97%A0%E6%BA%90%E5%85%89%E7%BA%A4%E6%8E%A5%E5%85%A5%E7%94%A8%E6%88%B7%E7%AB%AF%E8%AE%BE%E5%A4%87(EPON%20ONU)%20.pdf" target="_blank" rel="noopener">下载地址1</a></li></ul>]]></content>
       
       
       <categories>
